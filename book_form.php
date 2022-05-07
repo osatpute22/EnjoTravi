@@ -1,9 +1,9 @@
 <?php
-
+/*
     $server ="sql106.epizy.com";
     $userame ="epiz_31635047";
     $password ="vI8JXPEVDw";
-    $dbname ="epiz_31635047_book_db";
+    $dbname ="epiz_31635047_book_db";*/
 
     $connection = mysqli_connect('localhost','root','','book_db1');
     

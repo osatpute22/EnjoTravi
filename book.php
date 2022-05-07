@@ -20,6 +20,7 @@
             <a href="about.php">About</a>
             <a href="package.php">Package</a>
             <a href="book.php">Book</a>
+            <a href="displayDb.php">DisplayDatabase</a>
         </nav>
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
